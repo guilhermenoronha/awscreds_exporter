@@ -1,5 +1,6 @@
 @echo off
 setlocal enabledelayedexpansion
+REM Command to export AWS variables to global environment
 
 SET JSON_FILE=%1
 
