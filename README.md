@@ -19,5 +19,4 @@ This scripts requires awscli to be installed.
 Some suggestions:
 
 - Create the same script to run on PowerShell.
-- Create the same script to run on Linux bash.
-- Enhance the script to accept a clipboard json instead of a file. 
+- Enhance the script to accept a clipboard json instead of a file.
